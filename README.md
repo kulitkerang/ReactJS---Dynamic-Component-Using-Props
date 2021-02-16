@@ -1,7 +1,6 @@
-# MELANJUTKAN DARI PROJECT SEBELUMNYA TENTANG CARD
-kita membuat tentang stateless component dan statefull component , perbedaannya antara lain :
-- stateless component kita menggunakan awalan function "const"
-- fullstate component kita menggunakan awalan function "class"
+# MELANJUTKAN DARI PROJECT SEBELUMNYA TENTANG STATELESS COMPONENT DAN STATEFULL COMPONENT
+# DALAM LATIHAN KALI INI KITA MEMBUAT DYNAMIC COMPONENT MENGGUNAKAN PROPS
+- sama seperti cara kita dengan membuat card sebelumnya tetapi kita sekarang menggunakan gambar dan membuat component menjadi dynamic
 
 
 
